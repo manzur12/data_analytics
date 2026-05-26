@@ -1,5 +1,3 @@
-# data_analytics
-
 # Hi, I'm Munjurul Alam Piash
  
 ## 🎓 About Me - 📊 Statistics | Islamic University, Kushtia (B.Sc. Hons., 4th Year) - 🎯 Aspiring Data Analyst — Excel | SQL | Power BI | Python - 📈 Currently: 5-Month Data Analyst Roadmap (Day 1 of 130) - 🇧🇩 Based in Bangladesh 
