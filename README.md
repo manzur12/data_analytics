@@ -16,4 +16,4 @@
 | Financial Dashboard (TVM, FDR, NPV) | Excel | 🔄 Week 1 | 
  
 ## 📫 Contact - 🐙 github.com/manzur12 - 📧 munjurulalampiash@gmail.com 
-Consistency > Perfection. Day 3 of 130.* �
+Consistency > Perfection. Day 4 of 130.* �
