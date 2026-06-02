@@ -1,0 +1,106 @@
+PO_Number,Request_Date,Approval_Date,Department,Category,Supplier,Amount,Status,Region,Notes
+PO0001,6/12/2024,6/14/2024,Finance,Office Supplies,Rahman Traders,5000,Pending,Dhaka,
+PO0002,5/19/2024,,HR,Office Supplies,Karim Services,120000,Cancelled,Khulna,Urgent
+PO0003,5/23/2024,5/27/2024,Admin,Raw Material,TechCorp BD,120000,Active,Rajshahi,
+PO0004,3/12/2024,3/15/2024,IT,IT Equipment,Office Plus,25000,Active,Dhaka,
+PO0005,3/29/2024,4/8/2024,Operations,Maintenance,Office Plus,50000,Active,Dhaka,On hold
+PO0006,3/16/2024,3/30/2024,HR,IT Equipment,Karim Services,80000,Active,Dhaka,Regular
+PO0007,1/26/2024,2/2/2024,IT,Office Supplies,Digital Hub,50000,Active,CTG,
+PO0008,3/9/2024,3/21/2024,Finance,Maintenance,Karim Services,8000,Active,Rajshahi,Approved
+PO0009,3/10/2024,3/25/2024,HR,Office Supplies,TechCorp BD,25000,Active,Rajshahi,
+PO0010,1/17/2024,1/21/2024,Operations,Services,Paper World,80000,Active,Sylhet,Regular
+PO0011,3/4/2024,3/16/2024,Operations,Maintenance,Printers Ltd,50000,Active,CTG,Regular
+PO0012,5/10/2024,5/18/2024,HR,Office Supplies,Rahman Traders,8000,Pending,Rajshahi,On hold
+PO0013,1/17/2024,1/24/2024,Operations,Maintenance,Islam & Sons,120000,Cancelled,Dhaka,
+PO0014,1/30/2024,2/10/2024,IT,IT Equipment,Islam & Sons,50000,Active,CTG,Approved
+PO0015,1/1/2024,1/13/2024,Finance,Maintenance,Office Plus,50000,Pending,Sylhet,
+PO0016,5/9/2024,5/19/2024,Finance,Maintenance,Mia Supplies,25000,Active,Khulna,
+PO0017,5/5/2024,5/6/2024,IT,Office Supplies,TechCorp BD,8000,Active,Khulna,Urgent
+PO0018,1/22/2024,2/3/2024,Admin,Office Supplies,Rahman Traders,200000,Pending,Rajshahi,On hold
+PO0019,2/12/2024,2/17/2024,Admin,Office Supplies,Islam & Sons,120000,Active,Sylhet,Approved
+PO0020,5/12/2024,5/20/2024,HR,Raw Material,TechCorp BD,8000,Cancelled,Khulna,Regular
+PO0021,5/30/2024,,HR,Office Supplies,Office Plus,5000,Active,Sylhet,Urgent
+PO0022,5/11/2024,5/15/2024,Finance,Maintenance,Rahman Traders,50000,Pending,Khulna,On hold
+PO0023,5/1/2024,5/5/2024,Finance,IT Equipment,Office Plus,200000,Pending,Rajshahi,
+PO0024,4/18/2024,4/25/2024,HR,IT Equipment,TechCorp BD,200000,Active,Sylhet,Urgent
+PO0025,3/4/2024,3/8/2024,Finance,Services,Rahman Traders,25000,Active,Rajshahi,Regular
+PO0026,1/20/2024,,Admin,IT Equipment,Office Plus,8000,Active,CTG,Approved
+PO0027,5/4/2024,5/12/2024,HR,Office Supplies,Printers Ltd,25000,Active,Rajshahi,
+PO0028,4/26/2024,5/1/2024,Admin,Services,Rahman Traders,120000,Active,Sylhet,Regular
+PO0029,1/15/2024,1/25/2024,HR,IT Equipment,CTG Traders,5000,Active,Khulna,On hold
+PO0030,2/10/2024,2/11/2024,HR,Maintenance,Office Plus,8000,Pending,CTG,Approved
+PO0031,1/31/2024,2/15/2024,HR,Maintenance,Office Plus,25000,Active,Khulna,On hold
+PO0032,5/13/2024,5/19/2024,IT,Office Supplies,Islam & Sons,50000,Active,CTG,
+PO0033,6/14/2024,6/19/2024,HR,IT Equipment,Paper World,200000,Cancelled,Khulna,Urgent
+PO0034,1/19/2024,1/28/2024,Finance,Raw Material,Office Plus,25000,Active,Sylhet,
+PO0035,2/10/2024,2/18/2024,Admin,IT Equipment,Mia Supplies,50000,Active,Dhaka,Regular
+PO0036,3/8/2024,3/10/2024,Finance,Raw Material,Islam & Sons,8000,Cancelled,CTG,
+PO0037,3/28/2024,4/1/2024,IT,IT Equipment,Office Plus,50000,Pending,Rajshahi,
+PO0038,1/12/2024,1/13/2024,IT,Office Supplies,Paper World,80000,Cancelled,Rajshahi,On hold
+PO0039,1/3/2024,1/5/2024,Finance,Maintenance,TechCorp BD,8000,Active,Khulna,On hold
+PO0040,2/7/2024,,IT,IT Equipment,Digital Hub,12000,Active,CTG,
+PO0041,1/27/2024,2/2/2024,Finance,Office Supplies,Rahman Traders,120000,Active,Rajshahi,Urgent
+PO0042,2/15/2024,2/27/2024,Operations,Office Supplies,Islam & Sons,80000,Active,Dhaka,Approved
+PO0043,1/10/2024,1/24/2024,Operations,Raw Material,Islam & Sons,200000,Active,CTG,Urgent
+PO0044,6/17/2024,6/21/2024,HR,Raw Material,Digital Hub,120000,Pending,Khulna,Approved
+PO0045,6/22/2024,7/6/2024,HR,Raw Material,Rahman Traders,80000,Cancelled,Sylhet,Urgent
+PO0046,1/28/2024,2/7/2024,IT,Services,CTG Traders,120000,Cancelled,Dhaka,Approved
+PO0047,5/27/2024,,Operations,IT Equipment,Mia Supplies,50000,Cancelled,CTG,
+PO0048,4/20/2024,4/22/2024,HR,Raw Material,Mia Supplies,80000,Active,Rajshahi,
+PO0049,4/13/2024,4/25/2024,Finance,Services,Printers Ltd,50000,Pending,CTG,On hold
+PO0050,5/25/2024,5/30/2024,HR,Raw Material,Islam & Sons,120000,Active,Rajshahi,On hold
+PO0051,6/4/2024,6/15/2024,Operations,Office Supplies,Mia Supplies,80000,Active,CTG,
+PO0052,1/22/2024,,Finance,Raw Material,Karim Services,80000,Active,CTG,Urgent
+PO0053,1/12/2024,1/16/2024,HR,Services,Printers Ltd,200000,Pending,Khulna,Regular
+PO0054,6/27/2024,7/4/2024,Finance,IT Equipment,Office Plus,200000,Active,CTG,Regular
+PO0055,6/27/2024,,Finance,IT Equipment,Paper World,200000,Active,Rajshahi,
+PO0056,5/15/2024,5/24/2024,Operations,Maintenance,Mia Supplies,80000,Active,Khulna,Approved
+PO0057,2/10/2024,2/22/2024,Finance,Raw Material,Mia Supplies,200000,Active,CTG,
+PO0058,4/22/2024,4/24/2024,IT,Raw Material,Mia Supplies,50000,Active,CTG,Regular
+PO0059,2/29/2024,3/7/2024,HR,Services,Printers Ltd,12000,Active,Khulna,Approved
+PO0060,4/16/2024,4/17/2024,Operations,Maintenance,TechCorp BD,25000,Cancelled,Rajshahi,Approved
+PO0061,1/2/2024,1/8/2024,Operations,Maintenance,Mia Supplies,50000,Cancelled,CTG,Approved
+PO0062,2/26/2024,3/2/2024,Operations,Raw Material,Printers Ltd,120000,Pending,CTG,Approved
+PO0063,2/2/2024,2/12/2024,Admin,Maintenance,TechCorp BD,5000,Active,Rajshahi,Regular
+PO0064,4/28/2024,5/1/2024,IT,Office Supplies,Paper World,5000,Active,Sylhet,Approved
+PO0065,3/12/2024,3/25/2024,HR,Services,TechCorp BD,120000,Pending,Khulna,Urgent
+PO0066,3/30/2024,4/3/2024,HR,IT Equipment,Karim Services,8000,Active,Dhaka,On hold
+PO0067,2/9/2024,2/13/2024,HR,Maintenance,Karim Services,12000,Active,Sylhet,
+PO0068,2/12/2024,2/22/2024,Finance,Raw Material,Office Plus,8000,Cancelled,Dhaka,
+PO0069,5/27/2024,6/7/2024,Finance,IT Equipment,CTG Traders,120000,Pending,CTG,Urgent
+PO0070,6/27/2024,7/10/2024,Admin,IT Equipment,CTG Traders,50000,Active,Sylhet,On hold
+PO0071,4/19/2024,,IT,IT Equipment,Printers Ltd,80000,Active,Dhaka,Approved
+PO0072,4/2/2024,4/13/2024,Operations,Office Supplies,Mia Supplies,200000,Pending,Sylhet,On hold
+PO0073,5/17/2024,5/30/2024,Admin,Raw Material,Digital Hub,200000,Active,Dhaka,
+PO0074,4/25/2024,4/29/2024,Operations,Raw Material,TechCorp BD,200000,Active,Sylhet,Regular
+PO0075,5/4/2024,5/8/2024,IT,Raw Material,CTG Traders,80000,Pending,Sylhet,On hold
+PO0076,1/3/2024,,Operations,Services,Mia Supplies,25000,Active,Rajshahi,
+PO0077,5/5/2024,,Finance,Services,Karim Services,5000,Active,Khulna,
+PO0078,5/1/2024,5/10/2024,Admin,Raw Material,Digital Hub,80000,Pending,Rajshahi,
+PO0079,3/19/2024,3/24/2024,Finance,Raw Material,Office Plus,25000,Pending,Khulna,
+PO0080,2/17/2024,2/21/2024,IT,Maintenance,Mia Supplies,25000,Cancelled,Sylhet,Urgent
+PO0081,2/19/2024,2/24/2024,IT,IT Equipment,Mia Supplies,25000,Active,Sylhet,Urgent
+PO0082,1/14/2024,1/23/2024,Finance,Services,Office Plus,50000,Active,Khulna,
+PO0083,4/30/2024,5/8/2024,HR,Raw Material,Paper World,200000,Active,Dhaka,Approved
+PO0084,5/5/2024,5/7/2024,Admin,Raw Material,Office Plus,5000,Active,Dhaka,On hold
+PO0085,4/16/2024,4/26/2024,Operations,Services,Paper World,25000,Active,Khulna,Approved
+PO0086,3/19/2024,3/29/2024,HR,Office Supplies,Karim Services,5000,Active,Dhaka,Regular
+PO0087,3/2/2024,3/5/2024,Operations,Services,CTG Traders,8000,Active,Sylhet,Urgent
+PO0088,2/29/2024,3/5/2024,Operations,IT Equipment,Karim Services,50000,Active,Khulna,
+PO0089,2/20/2024,2/27/2024,Finance,Raw Material,Rahman Traders,8000,Active,Dhaka,Regular
+PO0090,3/19/2024,3/29/2024,Operations,Raw Material,Printers Ltd,50000,Active,Khulna,On hold
+PO0091,5/6/2024,5/14/2024,Operations,Raw Material,CTG Traders,8000,Active,Dhaka,Urgent
+PO0092,2/28/2024,3/10/2024,IT,Maintenance,TechCorp BD,5000,Active,Rajshahi,On hold
+PO0093,6/15/2024,6/23/2024,Admin,Services,Paper World,50000,Active,Rajshahi,
+PO0094,4/14/2024,4/20/2024,Finance,Raw Material,Printers Ltd,80000,Pending,Rajshahi,
+PO0095,6/18/2024,6/25/2024,IT,Raw Material,Digital Hub,5000,Active,Rajshahi,On hold
+PO0096,1/1/2024,1/12/2024,Finance,Maintenance,Digital Hub,200000,Cancelled,Rajshahi,
+PO0097,4/23/2024,5/6/2024,Admin,Office Supplies,Islam & Sons,5000,Active,Rajshahi,Urgent
+PO0098,1/8/2024,1/19/2024,IT,Maintenance,TechCorp BD,25000,Cancelled,Rajshahi,Urgent
+PO0099,2/27/2024,3/12/2024,HR,Office Supplies,Paper World,8000,Pending,Sylhet,On hold
+PO0100,PO0100,PO0100,PO0100,PO0100,PO0100,PO0100,PO0100,PO0100,PO0100
+PO0101,PO0101,PO0101,PO0101,PO0101,PO0101,PO0101,PO0101,PO0101,PO0101
+PO0102,PO0102,PO0102,PO0102,PO0102,PO0102,PO0102,PO0102,PO0102,PO0102
+PO0103,PO0103,PO0103,PO0103,PO0103,PO0103,PO0103,PO0103,PO0103,PO0103
+PO0104,PO0104,PO0104,PO0104,PO0104,PO0104,PO0104,PO0104,PO0104,PO0104
+PO0105,PO0105,PO0105,PO0105,PO0105,PO0105,PO0105,PO0105,PO0105,PO0105
