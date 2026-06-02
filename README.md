@@ -10,7 +10,7 @@
 | Power BI + DAX | ⏳ Month 3 | 
 | Python EDA | ⏳ Month 4 | 
  
-Projects table-এ update েকরো: 
+Projects:
 | Financial Dashboard (TVM, NPV, IRR) | Excel | ✅ Done | 
 | Loan Amortization + Rate Sensitivity | Excel | ✅ Done | 
 | Capital Budgeting Analysis | Excel | ✅ Done | 
